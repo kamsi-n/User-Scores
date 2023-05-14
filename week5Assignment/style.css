@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(253, 193, 193);
+    font-family: segoe UI;
+}
+
+.square1 {
+    background-color: rgb(255, 106, 131);
+    padding: 20px;
+    margin-top: 30vh;
+    border: 5px solid;
+    border-radius: 25px;
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+p {
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+input {
+    border: 3px solid ;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    font-size: 100%;
+    font-weight: 600;
+    text-align: center;
+}
+
+#message {
+    margin-bottom: 10px;
+    color: white;
+}
+button {
+    border: none;
+    background-color: pink;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: -10px;
+}
